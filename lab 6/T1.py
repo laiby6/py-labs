@@ -18,7 +18,7 @@ def dfs(graph, start_node, goal_node):
                     stack.append(neighbor)
 
     print("Goal node not found.")
-dataGraph = {
+graph = {
     'A': {'B', 'F','D','E'},
     'B': {'K', 'J'},
     'C': {},
