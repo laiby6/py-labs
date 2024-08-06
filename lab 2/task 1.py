@@ -8,6 +8,3 @@ while(count<3):
 
 #count1 =0
 #while(count1 == 0 ):print("Hello Python")
-
-
-
